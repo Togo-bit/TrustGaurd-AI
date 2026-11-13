@@ -1,0 +1,9 @@
+streamlit>=1.40
+pymupdf>=1.24.3
+pandas>=2.2
+plotly>=5.24
+requests>=2.32
+numpy>=1.26
+sentence-transformers>=3.0
+rank-bm25>=0.2.2
+faiss-cpu>=1.8.0

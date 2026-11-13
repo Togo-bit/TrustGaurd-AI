@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+trustguard_events.db
+*.db
+.pytest_cache/
